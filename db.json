@@ -1,4 +1,4 @@
-const OurProductsItems = [
+
     {
       id: 0,
       img: 'https://colorlib.com/preview/theme/modist/images/product-1.jpg',
@@ -55,4 +55,4 @@ const OurProductsItems = [
         price: 100,
         sale: ''
       },
-  ]
+  
