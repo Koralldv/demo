@@ -1,58 +1,58 @@
 "products": [
     {
-      id: 0,
-      img: 'https://colorlib.com/preview/theme/modist/images/product-1.jpg',
-      title: 'Young Woman Wearing Dress',
-      price: 100,
-      sale: 30 
+      "id": 0,
+      "img": 'https://colorlib.com/preview/theme/modist/images/product-1.jpg',
+      "title": 'Young Woman Wearing Dress',
+      "price": 100,
+      "sale": 30 
     },
     {
-      id: 0,
-      img: 'https://colorlib.com/preview/theme/modist/images/product-2.jpg',
-      title: 'Young Woman Wearing Dress',
-      price: 120,
-      sale: '' 
+      "id": 0,
+      "img": 'https://colorlib.com/preview/theme/modist/images/product-2.jpg',
+      "title": 'Young Woman Wearing Dress',
+      "price": 120,
+      "sale": '' 
     },
     {
-      id: 0,
-      img: 'https://colorlib.com/preview/theme/modist/images/product-3.jpg',
-      title: 'Young Woman Wearing Dress',
-      price: 200,
-      sale: 20 
+      "id": 0,
+      "img": 'https://colorlib.com/preview/theme/modist/images/product-3.jpg',
+      "title": 'Young Woman Wearing Dress',
+      "price": 200,
+      "sale": 20 
     },
     {
-      id: 0,
-      img: 'https://colorlib.com/preview/theme/modist/images/product-4.jpg',
-      title: 'Young Woman Wearing Dress',
-      price: 100,
-      sale: ''
+      "id": 0,
+      "img": 'https://colorlib.com/preview/theme/modist/images/product-4.jpg',
+      "title": 'Young Woman Wearing Dress',
+      "price": 100,
+      "sale": ''
     },
     {
-        id: 0,
-        img: 'https://colorlib.com/preview/theme/modist/images/product-1.jpg',
-        title: 'Young Woman Wearing Dress',
-        price: 100,
-        sale: 30 
+        "id": 0,
+        "img": 'https://colorlib.com/preview/theme/modist/images/product-1.jpg',
+        "title": 'Young Woman Wearing Dress',
+        "price": 100,
+        "sale": 30 
       },
       {
-        id: 0,
-        img: 'https://colorlib.com/preview/theme/modist/images/product-2.jpg',
-        title: 'Young Woman Wearing Dress',
-        price: 120,
-        sale: '' 
+        "id": 0,
+        "img": 'https://colorlib.com/preview/theme/modist/images/product-2.jpg',
+        "title": 'Young Woman Wearing Dress',
+        "price": 120,
+        "sale": '' 
       },
       {
-        id: 0,
-        img: 'https://colorlib.com/preview/theme/modist/images/product-3.jpg',
-        title: 'Young Woman Wearing Dress',
-        price: 200,
-        sale: 20 
+        "id": 0,
+        "img": 'https://colorlib.com/preview/theme/modist/images/product-3.jpg',
+        "title": 'Young Woman Wearing Dress',
+        "price": 200,
+        "sale": 20 
       },
       {
-        id: 0,
-        img: 'https://colorlib.com/preview/theme/modist/images/product-4.jpg',
-        title: 'Young Woman Wearing Dress',
-        price: 100,
-        sale: ''
+        "id": 0,
+        "img": 'https://colorlib.com/preview/theme/modist/images/product-4.jpg',
+        "title": 'Young Woman Wearing Dress',
+        "price": 100,
+        "sale": ''
       },
   ]
