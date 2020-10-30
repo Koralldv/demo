@@ -5,56 +5,56 @@
       "img": "https://colorlib.com/preview/theme/modist/images/product-1.jpg",
       "title": "Young Woman Wearing Dress",
       "price": 100,
-      "sale": 30,
+      "sale": 30
     },
     {
       "id": 1,
-      "img": "https://colorlib.com/preview/theme/modist/images/product-1.jpg",
+      "img": "https://colorlib.com/preview/theme/modist/images/product-2.jpg",
       "title": "Young Woman Wearing Dress",
       "price": 100,
-      "sale": 30,
+      "sale": 30
     },
     {
       "id": 2,
-      "img": "https://colorlib.com/preview/theme/modist/images/product-1.jpg",
+      "img": "https://colorlib.com/preview/theme/modist/images/product-3.jpg",
       "title": "Young Woman Wearing Dress",
       "price": 100,
-      "sale": 30,
+      "sale": 30
     },
     {
       "id": 3,
-      "img": "https://colorlib.com/preview/theme/modist/images/product-1.jpg",
+      "img": "https://colorlib.com/preview/theme/modist/images/product-4.jpg",
       "title": "Young Woman Wearing Dress",
       "price": 100,
-      "sale": 30,
+      "sale": 30
     },
     {
       "id": 4,
       "img": "https://colorlib.com/preview/theme/modist/images/product-1.jpg",
       "title": "Young Woman Wearing Dress",
       "price": 100,
-      "sale": 30,
+      "sale": 30
     },
     {
       "id": 5,
-      "img": "https://colorlib.com/preview/theme/modist/images/product-1.jpg",
+      "img": "https://colorlib.com/preview/theme/modist/images/product-3.jpg",
       "title": "Young Woman Wearing Dress",
       "price": 100,
-      "sale": 30,
+      "sale": 30
     },
         {
       "id": 6,
-      "img": "https://colorlib.com/preview/theme/modist/images/product-1.jpg",
+      "img": "https://colorlib.com/preview/theme/modist/images/product-2.jpg",
       "title": "Young Woman Wearing Dress",
       "price": 100,
-      "sale": 30,
+      "sale": 30
     },
     {
       "id": 7,
-      "img": "https://colorlib.com/preview/theme/modist/images/product-1.jpg",
+      "img": "https://colorlib.com/preview/theme/modist/images/product-4.jpg",
       "title": "Young Woman Wearing Dress",
       "price": 100,
-      "sale": 30,
-    },
+      "sale": 30
+    }
   ]
 }
