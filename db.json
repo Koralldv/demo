@@ -1,4 +1,4 @@
-
+[
     {
       id: 0,
       img: 'https://colorlib.com/preview/theme/modist/images/product-1.jpg',
@@ -55,4 +55,4 @@
         price: 100,
         sale: ''
       },
-  
+  ]
