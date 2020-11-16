@@ -6,7 +6,7 @@
       "title": "Young Woman Wearing Dress23",
       "price": 100,
       "sale": 30,
-      "category": 0,
+      "category": "Bodysuits",
       "popular": 23
     },
     {
@@ -15,7 +15,7 @@
       "title": "Young Woman Wearing Dress",
       "price": 100,
       "sale": 30,
-      "category": 0,
+      "category": "Bodysuits",
       "popular": 54
     },
     {
@@ -24,7 +24,7 @@
       "title": "Young Woman Wearing Dress",
       "price": 100,
       "sale": 30,
-      "category": 1,
+      "category": "Dresses",
       "popular": 45
     },
     {
@@ -33,7 +33,7 @@
       "title": "Young Woman Wearing Dress",
       "price": 100,
       "sale": 30,
-      "category": 1,
+      "category": "Hoodies Sweats",
       "popular": 34
     },
     {
@@ -42,7 +42,7 @@
       "title": "2Young Woman Wearing Dress",
       "price": 150,
       "sale": 30,
-      "category": 2,
+      "category": "Jackets Coats",
       "popular": 54
     },
     {
@@ -51,7 +51,7 @@
       "title": "1Young Woman Wearing Dress",
       "price": 100,
       "sale": 30,
-      "category": 2,
+      "category": "Jeans",
       "popular": 53
     },
         {
@@ -60,7 +60,7 @@
       "title": "Young Woman Wearing Dress745",
       "price": 100,
       "sale": 30,
-      "category": 3,
+      "category": "Bodysuits2",
       "popular": 745
     },
     {
@@ -69,7 +69,7 @@
       "title": "Young Woman Wearing Dress643",
       "price": 100,
       "sale": 30,
-      "category": 4,
+      "category": "Dresses2",
       "popular": 643
     }
   ]
