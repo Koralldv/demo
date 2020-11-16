@@ -7,7 +7,7 @@
       "price": 100,
       "sale": 30,
       "category": 0,
-      "rating": 23
+      "popular": 23
     },
     {
       "id": 1,
@@ -16,7 +16,7 @@
       "price": 100,
       "sale": 30,
       "category": 0,
-      "rating": 54
+      "popular": 54
     },
     {
       "id": 2,
@@ -25,7 +25,7 @@
       "price": 100,
       "sale": 30,
       "category": 1,
-      "rating": 45
+      "popular": 45
     },
     {
       "id": 3,
@@ -34,7 +34,7 @@
       "price": 100,
       "sale": 30,
       "category": 1,
-      "rating": 34
+      "popular": 34
     },
     {
       "id": 4,
@@ -43,7 +43,7 @@
       "price": 150,
       "sale": 30,
       "category": 2,
-      "rating": 54
+      "popular": 54
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
       "price": 100,
       "sale": 30,
       "category": 2,
-      "rating": 53
+      "popular": 53
     },
         {
       "id": 6,
@@ -61,7 +61,7 @@
       "price": 100,
       "sale": 30,
       "category": 3,
-      "rating": 745
+      "popular": 745
     },
     {
       "id": 7,
@@ -70,7 +70,7 @@
       "price": 100,
       "sale": 30,
       "category": 4,
-      "rating": 643
+      "popular": 643
     }
   ]
 }
