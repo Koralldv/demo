@@ -5,7 +5,7 @@
       "img": "https://colorlib.com/preview/theme/modist/images/product-1.jpg",
       "title": "Young Woman Wearing Dress23",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "price": 100,
+      "price": "100",
       "sale": 30,
       "category": "Bodysuits",
       "popular": 23
@@ -15,7 +15,7 @@
       "img": "https://colorlib.com/preview/theme/modist/images/product-2.jpg",
       "title": "Young Woman Wearing Dress",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "price": 100,
+      "price": "100",
       "sale": 30,
       "category": "Bodysuits",
       "popular": 54
